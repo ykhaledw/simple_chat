@@ -1,16 +1,16 @@
 # simple_chat
 
-A new Flutter project.
+Developed a minimalist and user-friendly chat application using Flutter, providing a real-time communication platform. Implemented features such as one-on-one messaging, and real-time message updates. Utilized Flutter's widget library for a responsive and engaging chat interface. Integrated Firebase for real-time data synchronization.
 
-## Getting Started
+## Tools
 
-This project is a starting point for a Flutter application.
+# Firebase
+1. firebase_core
+2. firebase_auth
+3. cloud_firestore
+4. firebase_storage
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+1. Login /Register Screen
+2. Chats Screen
